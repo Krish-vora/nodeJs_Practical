@@ -1,1 +1,0 @@
-console.log("Server script is running...");
